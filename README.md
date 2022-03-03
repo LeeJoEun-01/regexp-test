@@ -52,7 +52,8 @@ g | 모든 문자 일치(global)
 i | 영어 대소문자를 구분 않고 일치(ignore case)
 m | 여러 줄 일치(multi line)
 
-## 패턴 | 설명
+## 패턴(표현)
+패턴 | 설명
 --|--
 ^ab | 줄(Line) 시작에 있는 ab와 일치
 ab$ | 줄(Line) 끝에 있는 ab와 일치 
